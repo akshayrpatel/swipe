@@ -4,8 +4,6 @@
 
 Built with React, TypeScript, and Tailwind CSS, this game challenges players to make quick decisions by swiping cards in the correct direction based on dynamic rules that evolve as you progress.
 
-![Game Preview](https://images.pexels.com/photos/442576/pexels-photo-442576.jpeg?auto=compress&cs=tinysrgb&w=800&h=400&fit=crop)
-
 ## 🚀 How It Works
 
 ### 🎯 Core Gameplay
